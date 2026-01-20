@@ -1,0 +1,7 @@
+name: OriginLifesteal
+version: 1.0
+main: com.example.originlifesteal.OriginLifesteal
+api-version: 1.21
+commands:
+  origin:
+    description: Choose your origin
